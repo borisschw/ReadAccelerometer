@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="IMPORT_DIALOG">
+		<item value="0xf" key="Start"/>
+		<item value="0xf" key="Initial address"/>
+	</section>
+	<section name="EXPORT_DIALOG">
+		<item value="0x20000e68" key="Start"/>
+		<item value="0x20000e68" key="End"/>
+		<item value="0x20000e68" key="Initial address"/>
+	</section>
+</section>
